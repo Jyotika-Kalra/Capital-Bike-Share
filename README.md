@@ -12,10 +12,12 @@ Apart from interesting real world applications of bike sharing systems, the char
 In the segmant of exploratory analysis, I analyzed data from 2011-12 using barplots, boxplots, pairplots, lineplots and scatterplots. While doing this analyze I used several metrics such as, average number of bike rentals in day/hour, average rental duration, average distance and average speed. Member type, season, month, weekday and weather these are the main dimensions used in analysis.
 
 # Facebook Prophet:
-Facebook’s Prophet library is designed to do Time Series forecasting and supports R and Python. In this stage, The full 2018-20 data from the company website were used to give a forecast using Facebook Prophet. We used this library-
+Facebook’s Prophet library is designed to do Time Series forecasting and supports R and Python. In this stage, The full 2018-20 data from the company website were used to give a forecast using Facebook Prophet. We used this library:
 
 to predict What the future bike sharing demand will look like for the next 3 months.
+
 to investigate Factors that contribute to demand.
+
 to find out the hidden opportunities for increasing demand.
 
 # FlaskApp:
