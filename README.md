@@ -27,7 +27,7 @@ to find out the hidden opportunities for increasing demand.
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. In this stage, we made an app with Flask to get a prediction of rented bikes per hour by using AdaBoostRegressor as regression. It takes an input of weekday, hour, month, member type and is a holiday or not, and gives a prediction of bike usage within the hour. The app can be found on https://bike-share-count.herokuapp.com.
 
 <p align="center">
-  <img width="700" height="150" src="https://user-images.githubusercontent.com/73485296/110383888-40a80880-805d-11eb-956f-7047c176a4a1.png">
+  <img width="550" height="700" src="https://user-images.githubusercontent.com/73485296/110383888-40a80880-805d-11eb-956f-7047c176a4a1.png">
 </p>
 
 
