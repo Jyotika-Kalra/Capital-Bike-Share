@@ -1,7 +1,7 @@
 # Capital Bike Share
 
 <p align="center">
-  <img width="700" height="200" src="https://dcist.com/wp-content/uploads/sites/3/2019/02/cabi_web-900x600.jpg">
+  <img width="600" height="300" src="https://dcist.com/wp-content/uploads/sites/3/2019/02/cabi_web-900x600.jpg">
 </p>
 
 This dataset contains the hourly and daily count of rental bikes between different years in Capital bikeshare system with the corresponding weather and seasonal information. Please refer to the website for further reference: https://www.capitalbikeshare.com/
@@ -26,6 +26,9 @@ to find out the hidden opportunities for increasing demand.
 # FlaskApp:
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. In this stage, we made an app with Flask to get a prediction of rented bikes per hour by using AdaBoostRegressor as regression. It takes an input of weekday, hour, month, member type and is a holiday or not, and gives a prediction of bike usage within the hour. The app can be found on https://bike-share-count.herokuapp.com.
 
-![image](https://user-images.githubusercontent.com/73485296/110383888-40a80880-805d-11eb-956f-7047c176a4a1.png)
+<p align="center">
+  <img width="700" height="150" src="https://user-images.githubusercontent.com/73485296/110383888-40a80880-805d-11eb-956f-7047c176a4a1.png">
+</p>
+
 
 For Further analysis please refer https://www.capitalbikeshare.com/.
