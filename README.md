@@ -32,3 +32,7 @@ Flask is a lightweight WSGI web application framework. It is designed to make ge
 
 
 For Further analysis please refer https://www.capitalbikeshare.com/.
+
+## For Tableau Dashboard, please refer:
+
+[Capital Bike Share Analysis Dashboard](https://public.tableau.com/profile/jyotika4169#!/vizhome/CapitalBikeShare-PatternofRidesinDec2020/CapitalBikeShare-PatternofRidesinDec2020)
