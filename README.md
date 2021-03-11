@@ -1,5 +1,8 @@
 # Capital Bike Share
-![image](https://dcist.com/wp-content/uploads/sites/3/2019/02/cabi_web-900x600.jpg)
+
+<p align="center">
+  <img width="700" height="200" src="https://dcist.com/wp-content/uploads/sites/3/2019/02/cabi_web-900x600.jpg">
+</p>
 
 This dataset contains the hourly and daily count of rental bikes between different years in Capital bikeshare system with the corresponding weather and seasonal information. Please refer to the website for further reference: https://www.capitalbikeshare.com/
 
